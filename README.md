@@ -1,47 +1,77 @@
-# E-Donor
-E-Donor is a web-based application designed to connect blood donors with people who need blood during emergencies. The platform allows users to register as donors, search for available blood donors by blood group and location, and quickly contact them.  
-🚀 Features
+# E-Donor – Blood Bank Donation Management System
 
-User registration and login
+## Project Overview
+E-Donor is a web-based Blood Bank Donation Management System designed to help users find blood donors and check blood availability in nearby blood banks. The system connects donors, patients, and blood banks through a centralized platform to make blood donation and requests easier during emergencies.
 
-Donor registration with blood group and contact details
+## Objective
+The main objective of the E-Donor system is to simplify the management of blood donations and help people quickly find blood in emergency situations. It also helps blood banks maintain donor records and manage blood requests efficiently.
 
-Search donors by blood group
+## Features
+- User registration and login
+- Blood donor registration
+- Search blood availability
+- Blood request management
+- Admin dashboard for managing donors and blood banks
+- Database management of donor and blood information
+- Notification system for requests
 
-Simple and responsive user interface
+## Technologies Used
 
-Quick access to donor information during emergencies
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
 
-🛠 Technologies Used
+### Backend
+- PHP
 
-HTML
+### Database
+- MySQL
 
-CSS
+### Server
+- XAMPP (Apache Server)
 
-JavaScript
+## System Modules
 
-📂 Project Structure
+### User Module
+- Register and login
+- Search blood availability
+- Send blood requests
+- View nearby blood banks
 
-index.html – Main homepage
+### Donor Module
+- Register as a blood donor
+- Update donor information
+- Respond to blood requests
 
-style.css – Website styling
+### Admin Module
+- Manage donors
+- Manage blood bank details
+- View blood requests
+- Update blood availability
+- Send notifications to users
 
-script.js – JavaScript functionality
+## Database
+The system uses a MySQL database to store:
+- Donor information
+- Blood group details
+- Blood bank records
+- Blood request information
+- User login data
 
-🎯 Purpose of the Project
+## Advantages
+- Easy management of blood donor information
+- Helps patients quickly find blood during emergencies
+- Centralized database system
+- User-friendly interface
 
-This project was developed as a learning project to practice front-end web development and understand how technology can be used to support social causes like blood donation.
+## Future Enhancements
+- Mobile application version
+- GPS-based donor search
+- SMS and email notification system
+- Integration with hospital systems
 
-🔮 Future Improvements
-
-Add database integration
-
-User authentication system
-
-Location-based donor search
-
-Emergency notification system
-
-👨‍💻 Author
-
-Developed by Gowthaman R 
+## Author
+Gowthaman R  
+MCA Final Year Student
