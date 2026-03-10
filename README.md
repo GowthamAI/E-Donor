@@ -74,4 +74,4 @@ The system uses a MySQL database to store:
 
 ## Author
 Gowthaman R  
-MCA Final Year Student
+SAI SHASHANTH R
